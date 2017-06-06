@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauline22xx/Bamazon.git"
+  },
+  "keywords": [
+    "orders",
+    "customers",
+    "deplete",
+    "stock"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauline22xx/Bamazon/issues"
+  },
+  "homepage": "https://github.com/pauline22xx/Bamazon#readme"
+}
